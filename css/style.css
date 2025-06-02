@@ -1,7 +1,7 @@
 body {
   width: 100%;
 }
-body:before,
+body:before,1
 body:after {
   content: "";
   display: table;
